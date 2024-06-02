@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "winuser.h": "c",
+        "bind.h": "c",
+        "fileapi.h": "c",
+        "stdio.h": "c",
+        "windows.h": "c",
+        "stdint.h": "c",
+        "string.h": "c",
+        "kb_button.h": "c"
+    }
+}
